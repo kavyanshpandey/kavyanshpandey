@@ -5,7 +5,7 @@
 <!---### Github-Graduation-Yearbook-2021
 ![Github-Graduation-YearBook-2021](https://github.com/kavyanshpandey/kavyanshpandey/blob/main/githubyearbook2021.PNG)--->
 
-[![Kavyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyanshpandey)](https://github.com/kavyanshpandey/github-readme-stats)
+[![Kavyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyanshpandey&hide=contribs,issues,prs)](https://github.com/kavyanshpandey/github-readme-stats&)
 
 
 - 💻 Coding <br>
