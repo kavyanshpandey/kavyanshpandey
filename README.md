@@ -30,3 +30,10 @@
 kavyanshpandey/kavyanshpandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# Important Update
+
+## All pinned repositories are the part of HacktoberFest 2022 Repositories.
+
+## Feel free to contribute :rocket: :smile: :heart:
