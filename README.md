@@ -32,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Important Update
+<!-- # Important Update
 
 ## All pinned repositories are the part of HacktoberFest 2022 Repositories.
 
 <b><i>Pull request, has not required to be mergerd, It will automatically marked as completed after 7 days.</i></b>
 
-## Feel free to contribute :rocket: :smile: :heart:
+## Feel free to contribute :rocket: :smile: :heart: -->
